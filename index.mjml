@@ -1,0 +1,115 @@
+<mjml>
+  <mj-head>
+    <mj-title>Betterhand</mj-title>
+    <mj-style>
+      .main-text{ padding:0 !important} .title{ padding:0px 0px 32px 0px
+      !important} .link { color:#ffffff; text-decoration:none; padding:0px
+      !important} .email td{ padding:32px 24px 24px 32px !important } .policy td
+      { padding: 0px !important; max-width:210px !important; text-align:left
+      !important } .privacy { max-width:100px;padding:0px 0px 24px
+      32px!important; } .service td{ padding:0px 0px 0px 32px!important }
+      .copyright td {padding:0px 24px 24px 32px!important; }
+    </mj-style>
+  </mj-head>
+  <mj-body width="600px" background-color="#ffffff">
+    <mj-section css-class="top-bg" padding="0">
+      <mj-column>
+        <mj-image padding="0" src="./img/lightBg.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="logo" padding="24px 32px">
+      <mj-column>
+        <mj-image
+          align="left"
+          padding="0"
+          width="192px"
+          src="./img/logo.png"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="24px 32px">
+      <mj-column padding="0px 0px 32px 0px">
+        <mj-text
+          css-class="title"
+          font-size="32px"
+          font-weight="bold"
+          align="left"
+          >Example of an email header</mj-text
+        >
+        <mj-text
+          css-class="main-text"
+          font-size="16px"
+          font-weight="normal"
+          line-height="27px"
+          align="left"
+          >The task of the organization, in particular the consultation with a
+          broad asset, requires us to analyze the appropriate conditions for
+          activation. On the other hand, the new model of organizational
+          activity makes it possible to carry out important tasks for the
+          development of further directions of development. On the other hand,
+          the framework and place of staff training provides a wide range of
+          (specialists) participation in the formation of systems of mass
+          participation.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#1D4BEF">
+      <mj-column css-class="email">
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          line-height="18px"
+          font-weight="normal"
+          align="left"
+          ><a href="mailto:info@bhft.com" class="link"
+            >info@bhft.com</a
+          ></mj-text
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="policy" background-color="#1D4BEF">
+      <mj-column css-class="privacy">
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          line-height="18px"
+          font-weight="normal"
+          white-space="nowrap"
+          ><a href="#" class="link">Privacy Policy</a></mj-text
+        >
+      </mj-column>
+      <mj-column css-class="service">
+        <mj-text
+          color="#ffffff"
+          font-size="14px"
+          line-height="18px"
+          font-weight="normal"
+          align="left"
+          ><a href="#" class="link">Term of Service </a></mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#1D4BEF">
+      <mj-column css-class="copyright">
+        <mj-text
+          css-class="copyright"
+          color="#ffffff"
+          font-size="14px"
+          line-height="18px"
+          font-weight="normal"
+          align="left"
+          >© 2021</mj-text
+        >
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+
+<!-- @media(min-width:400px){ .logo { padding:0px
+      !important; } .title {font-size:32px; padding:0px 0px 32px 0px!important}
+      .main-text{ font-size:16px } .email td{ padding:32px 24px 24px 32px
+      !important} .policy td{ padding:0px 24px 24px 32px !important} .privacy td
+      { padding: 0px 0px 24px 32px !important} .service td { padding: 0px 0px
+      24px 20px !important} .copyright td{ padding:0px 24px 24px 32px
+      !important} } -->
