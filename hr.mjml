@@ -79,21 +79,21 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body overflow="hidden" width="600px" background-color="#ffffff">
+  <mj-body overflow="hidden" width="600px" background-color="#000000">
     <mj-section css-class="top-bg" padding="0">
       <mj-column>
-        <mj-image padding="0" src="./img/lightBg.png"></mj-image>
+        <mj-image padding="0" src="./img/darkBg.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column css-class="logo">
-        <mj-image align="left" padding="0" width="192px" src="./img/logo.png"></mj-image>
+        <mj-image align="left" padding="0" width="192px" src="./img/logoDark.png"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column css-class="content">
-        <mj-text css-class="title" font-size="32px" font-weight="bold" align="left">Example of an email header</mj-text>
-        <mj-text css-class="main-text" font-size="16px" font-weight="normal" line-height="27px" align="left">The task of the organization, in particular the consultation with a broad asset, requires us to analyze the appropriate conditions for activation. On the other hand, the new model of organizational activity makes it possible to carry out important tasks for the development of further directions of development. On the other hand, the framework and place of staff training provides a wide range of (specialists) participation in the formation of systems of mass participation.</mj-text>
+        <mj-text css-class="title" font-size="32px" font-weight="bold" align="left" color='#ffffff'>Example of an email header</mj-text>
+        <mj-text css-class="main-text" font-size="16px" font-weight="normal" line-height="27px" align="left" color='#ffffff'>The task of the organization, in particular the consultation with a broad asset, requires us to analyze the appropriate conditions for activation. On the other hand, the new model of organizational activity makes it possible to carry out important tasks for the development of further directions of development. On the other hand, the framework and place of staff training provides a wide range of (specialists) participation in the formation of systems of mass participation.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#1D4BEF">
